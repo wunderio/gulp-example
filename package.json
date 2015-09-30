@@ -1,0 +1,22 @@
+{
+  "name": "gulp-example",
+  "version": "0.1.0",
+  "description": "Example files to demonstrate how to use our Gulp task as node module implementation.",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-task-css-inject": "wunderkraut/gulp-task-css-inject",
+    "gulp-task-lint-browser": "wunderkraut/gulp-task-lint-browser",
+    "gulp-task-postcss": "wunderkraut/gulp-task-postcss",
+    "gulp-task-svg-stack": "wunderkraut/gulp-task-svg-stack",
+    "path": "^0.12.7",
+    "postcss-advanced-variables": "^1.1.0",
+    "postcss-color-function": "^2.0.0",
+    "postcss-extend": "^1.0.0",
+    "postcss-import": "^7.0.0",
+    "postcss-mixins": "^1.0.1",
+    "postcss-nested": "^1.0.0"
+  },
+  "private": true,
+  "author": "Benedikt Rötsch <benedikt.roetsch@wunderkraut.com>",
+  "license": "GPL-2.0"
+}
